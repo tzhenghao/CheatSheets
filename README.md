@@ -14,9 +14,10 @@ Supported Cheat Sheets
 1. Vim
 2. Sublime Text
 3. Linux Command Line commands
-4. gdb
-5. Valgrind
+4. markdown
+5. gdb
 6. Ruby on Rails (useful commands)
+7. Valgrind
 ... and more!
 
 Usage
