@@ -18,6 +18,11 @@ Supported Cheat Sheets
 5. gdb
 6. Ruby on Rails (useful commands)
 7. Valgrind
+8. git
+9. gnuplot
+10. Dart
+11. PHP
+12. R
 ... and more!
 
 Usage
