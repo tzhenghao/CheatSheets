@@ -1,0 +1,60 @@
+// Zheng Hao Tan
+// Date: May 5, 2014
+
+Command Line Cheat Sheet
+
+
+Basic Commands
+*******************************************************************
+Display Date 												- date
+Display cal													- cal
+Display free disk space										- df
+Display free memory											- free
+Exit														- exit
+	
+List file(s)												- ls
+Move file(s)												- mv 
+Delete/Remove file(s)										- rm
+Print current directory										- pwd
+
+
+
+Changing Directories
+*******************************************************************
+Create new directory										- mkdir
+Change to previous working directory						- cd -
+Change to <username>directory								- cd ~<username>
+
+
+Listing file(s)
+*******************************************************************
+List all files (including hidden ones)						- ls -a
+List with longer description								- ls -l
+List by modification time									- ls -t
+List by file size											- ls -S
+Display filetype											- file <filename>
+Display content in file(s)	(Press q to quit)				- less <filename>
+
+Copying file(s)
+*******************************************************************
+Copy file(s)												- cp
+
+
+Moving file(s)
+******************************************************************
+
+
+
+Delete/Remove file(s)
+*******************************************************************
+
+
+
+Selection Options
+*******************************************************************
+Select all													- *
+Select all that begins with test-							- test-*
+Select all that ends with .txt								- *.txt
+Any file that begins with test followed by any 3 chars		- test???
+Any file that begins with a,b or c 							- [abc]*
+

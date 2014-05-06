@@ -1,0 +1,48 @@
+// Zheng Hao Tan
+// Date: May 5, 2014
+
+Vim Cheat Sheet
+
+
+MODES
+*******************************************************************
+Insert Mode 				- i OR a
+Normal Mode 				- Esc
+Visual Mode 				- v
+
+Cut, Copy and Paste
+*******************************************************************
+Delete letter under cursor 			- x
+Copy word 							- yw
+Copy (Yank) line 					- yy
+Delete line(s)						- dd
+Paste before cursor					- P
+Paste after cursor					- p
+
+Navigation/Moving (in Normal mode)
+*******************************************************************
+Move Up								- k
+Move Down							- j
+Jump to first line of file			- gg
+Jump to last line of file 			- G
+Jump to line <line num>				- <line num>gg OR <line num>G
+
+Visual Mode
+*******************************************************************
+Select visual text by line(s) 		- Shift + v
+Select visual text by block(s)		- Ctrl + v
+
+Editing
+*******************************************************************
+Undo								- u
+Redo								- Ctrl + r
+Insert before cursor				- i
+Insert after cursor 				- a
+
+Finding
+*******************************************************************
+Find <word>							- /<word>
+
+
+Replacing
+*******************************************************************

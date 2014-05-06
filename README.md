@@ -28,8 +28,10 @@ in my career.
 FAQ
 ---
 1. Why in .txt format?
-Answer: Because we can squeeze more of it into 1 page!
+Answer: Because we can squeeze more of it into 1 page and they are extremely 
+		lightweight!
 
 Support
 ------
 Feel free to work on it and contact me if you have any questions.
+

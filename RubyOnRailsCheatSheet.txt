@@ -1,0 +1,7 @@
+// Zheng Hao Tan
+// Date: May 5, 2014
+
+Ruby On Rails Cheat Sheet
+
+*******************************************************************
+Creating a new project 								- rails new <project name>

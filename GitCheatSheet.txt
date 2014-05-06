@@ -1,0 +1,13 @@
+/ Zheng Hao Tan
+// Date: May 5, 2014
+
+Git Cheat Sheet
+
+Configuration Options
+*******************************************************************
+git config
+
+
+Stage files for commit
+*******************************************************************
+
