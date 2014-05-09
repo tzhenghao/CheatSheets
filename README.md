@@ -20,9 +20,10 @@ Supported Cheat Sheets
 7. Valgrind
 8. git
 9. gnuplot
-10. Dart
-11. PHP
-12. R
+10. Shell Scripting
+11. Dart
+12. PHP
+13. R
 ... and more!
 
 Usage
