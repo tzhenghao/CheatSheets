@@ -7,11 +7,11 @@ Markdown Cheat Sheet
 Basics
 ***************************************************************************
 
-This is the Heading
-===================
+This is the Heading (1st level)
+===============================
 
-This is a subheading
---------------------
+This is a subheading (2nd level)
+--------------------------------
 
 You can have multiple headings
 ------------------------------
@@ -19,6 +19,29 @@ You can have multiple headings
 Here's one more!
 ----------------
 
+### This is header 3!
+
 Then you can go ahead and type normally too!
 
+We can  *emphasize* some stuff using asterisks.
+We can also _emphasize_ them using underscores.
+
+For stronger ones, use two **asterisks** or two __underscores__.
+
+To make a list:
+- Use hyphens.
+- like these.
+
+You can also use:
++ This.
++ !!!
+
+Numbered lists can simply be made:
+1. like
+2. this
+3. simple, huh? :)
+
+To make links:
+this is a [link](http://www.google.com) to Google's website!
+, and of course you can put a [link](http://www.google.com "With comments like that!")
 
