@@ -1,5 +1,24 @@
-// Zheng Hao Tan
+// Name: Zheng Hao Tan
+// Email: tanzhao@umich.edu
 // Date: May 5, 2014
 
 Markdown Cheat Sheet
+
+Basics
+***************************************************************************
+
+This is the Heading
+===================
+
+This is a subheading
+--------------------
+
+You can have multiple headings
+------------------------------
+
+Here's one more!
+----------------
+
+Then you can go ahead and type normally too!
+
 
