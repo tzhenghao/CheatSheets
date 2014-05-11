@@ -5,7 +5,7 @@ Command Line Cheat Sheet
 
 
 Basic Commands
-*******************************************************************
+***********************************************************************************
 Display Date 												- date
 Display cal													- cal
 Display free disk space										- df
@@ -17,17 +17,15 @@ Move file(s)												- mv
 Delete/Remove file(s)										- rm
 Print current directory										- pwd
 
-
-
 Changing Directories
-*******************************************************************
+********************************************************************************
 Create new directory										- mkdir
 Change to previous working directory						- cd -
 Change to <username>directory								- cd ~<username>
 
 
 Listing file(s)
-*******************************************************************
+********************************************************************************
 List all files (including hidden ones)						- ls -a
 List with longer description								- ls -l
 List by modification time									- ls -t
@@ -36,25 +34,61 @@ Display filetype											- file <filename>
 Display content in file(s)	(Press q to quit)				- less <filename>
 
 Copying file(s)
-*******************************************************************
+********************************************************************************
 Copy file(s)												- cp
 
 
 Moving file(s)
-******************************************************************
+********************************************************************************
 
 
 
 Delete/Remove file(s)
-*******************************************************************
+********************************************************************************
 
 
 
 Selection Options
-*******************************************************************
+********************************************************************************
 Select all													- *
 Select all that begins with test-							- test-*
 Select all that ends with .txt								- *.txt
 Any file that begins with test followed by any 3 chars		- test???
 Any file that begins with a,b or c 							- [abc]*
+
+Working with Certain Commands above
+********************************************************************************
+Indicate how a command name is interpreted.                 - type <command>
+Tells which executable program will be used.				- which <command>
+Display the particular command's manual page.				- man <program>
+Display info about the command.								- info <command>
+Give a short, helpful description of the program			- whatis <command>
+Create alias for the command.								- alias <command>
+Display appropriate commands for the program				- apropros <program>
+Getting help												- help <command>
+
+
+Man pages
+********************************************************************************
+
+Man Page Organization
+1. User commands
+2. Programming interfaces for kernel system calls
+3. Programming interfaces to C library
+4. Special files such as device nodes and drivers
+5. File formats
+6. Games and amusements such as screensavers
+7. Miscellaneous
+8. System administration commands
+
+To access a particular section with a search term 			- man <section> <search term>
+
+Aliasing
+********************************************************************************
+Create an alias/shorcut for a series of commands:
+
+alias foo='<command1>; <command2>; ...'
+
+Removing an alias											- unalias <alias>
+
 

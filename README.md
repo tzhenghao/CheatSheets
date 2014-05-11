@@ -4,6 +4,9 @@ CheatSheets
 Introduction
 ------------
 Cheat sheet for various programming tools that I use while coding.
+Feel free to print them out and stick them to your wall for easy reference.
+These cheat sheets were created as I learn about new materials, and they have
+helped me remember and grasp them easily.
 
 Installation
 ------------
@@ -34,10 +37,10 @@ in my career.
 FAQ
 ---
 1. Why in .txt format?
-Answer: Because we can squeeze more of it into 1 page and they are extremely 
+- Because we can squeeze more of it into a single page and they are extremely 
 		lightweight!
+
 
 Support
 ------
 Feel free to work on it and contact me if you have any questions.
-
