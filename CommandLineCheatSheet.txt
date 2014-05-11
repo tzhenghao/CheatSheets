@@ -138,6 +138,14 @@ Convert chars from cursor location to end of word to lowercase		- Alt-l
 Delete chars to end of line											- Ctrl-k
 Delete chars to beginning of line									- Ctrl-u
 
+
+********************************************************************************
+Completion Commands
+********************************************************************************
+Display a list of all possible completions.							- Alt-?
+Inserts all possible completions.									- Alt-*
+
+
 ********************************************************************************
 More Tips and Tricks
 ********************************************************************************
