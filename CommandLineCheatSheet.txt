@@ -3,9 +3,10 @@
 
 Command Line Cheat Sheet
 
-
+********************************************************************************
 Basic Commands
-***********************************************************************************
+********************************************************************************
+
 Display Date 												- date
 Display cal													- cal
 Display free disk space										- df
@@ -17,15 +18,19 @@ Move file(s)												- mv
 Delete/Remove file(s)										- rm
 Print current directory										- pwd
 
+********************************************************************************
 Changing Directories
 ********************************************************************************
+
 Create new directory										- mkdir
 Change to previous working directory						- cd -
 Change to <username>directory								- cd ~<username>
 
 
+********************************************************************************
 Listing file(s)
 ********************************************************************************
+
 List all files (including hidden ones)						- ls -a
 List with longer description								- ls -l
 List by modification time									- ls -t
@@ -33,31 +38,40 @@ List by file size											- ls -S
 Display filetype											- file <filename>
 Display content in file(s)	(Press q to quit)				- less <filename>
 
+********************************************************************************
 Copying file(s)
 ********************************************************************************
+
 Copy file(s)												- cp
 
 
+
+********************************************************************************
 Moving file(s)
 ********************************************************************************
 
 
 
+********************************************************************************
 Delete/Remove file(s)
 ********************************************************************************
 
 
 
+********************************************************************************
 Selection Options
 ********************************************************************************
+
 Select all													- *
 Select all that begins with test-							- test-*
 Select all that ends with .txt								- *.txt
 Any file that begins with test followed by any 3 chars		- test???
 Any file that begins with a,b or c 							- [abc]*
 
+********************************************************************************
 Working with Certain Commands above
 ********************************************************************************
+
 Indicate how a command name is interpreted.                 - type <command>
 Tells which executable program will be used.				- which <command>
 Display the particular command's manual page.				- man <program>
@@ -68,6 +82,7 @@ Display appropriate commands for the program				- apropros <program>
 Getting help												- help <command>
 
 
+********************************************************************************
 Man pages
 ********************************************************************************
 
@@ -83,12 +98,50 @@ Man Page Organization
 
 To access a particular section with a search term 			- man <section> <search term>
 
+********************************************************************************
 Aliasing
 ********************************************************************************
+
 Create an alias/shorcut for a series of commands:
 
 alias foo='<command1>; <command2>; ...'
 
 Removing an alias											- unalias <alias>
 
+********************************************************************************
+Redirection
+********************************************************************************
+
+Concatenate files											- cat 
+
+
+
+
+
+
+********************************************************************************
+Command Line Editing
+********************************************************************************
+
+Move cursor to beginning of line									- Ctrl-a
+Move cursor to end of line											- Ctrl-e
+Move cursor forward by 1 character									- Ctrl-f
+Move cursor backward by 1 character									- Ctrl-b
+Move cursor forward by 1 word										- Alt-f
+Move cursor backward by 1 word										- Alt-b
+
+Delete char at cursor location										- Ctrl-d
+Exchange char at cursor location with the one preceding it			- Ctrl-t
+Transpose word at cursor location with the one preceding it			- Alt-t
+Convert chars from cursor location to end of word to lowercase		- Alt-l
+
+Delete chars to end of line											- Ctrl-k
+Delete chars to beginning of line									- Ctrl-u
+
+********************************************************************************
+More Tips and Tricks
+********************************************************************************
+
+Clears the command line screen.								- clear 
+Displays the history of commands 							- history 
 
