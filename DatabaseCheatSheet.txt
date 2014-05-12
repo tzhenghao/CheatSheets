@@ -6,11 +6,22 @@ SQLite
 *******************************************************************************
 
 *******************************************************************************
+Terminology
+*******************************************************************************
+
+- primary key
+- key
+- superkey
+- attributes
+
+
+
+*******************************************************************************
 Basics
 *******************************************************************************
 
-Creating a table								- CREATE TABLE(<attributes>);
-Specifing not null attribute						- NOT NULL(<attribute>);
-Specifing primary key							- PRIMARY KEY(<attribute);
-
+Creating a table						- CREATE TABLE tableName(<attributes>);
+Specifying not null attribute			- NOT NULL(<attribute>);
+Specifying primary key					- PRIMARY KEY(<attribute);
+Specifying candidate key				- UNIQUE(<attribute>);
 
