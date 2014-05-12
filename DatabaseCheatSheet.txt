@@ -1,0 +1,16 @@
+// Name: Zheng Hao Tan
+// Email: tanzhao@umich.edu
+// Date: May 12, 2014
+
+SQLite
+*******************************************************************************
+
+*******************************************************************************
+Basics
+*******************************************************************************
+
+Creating a table								- CREATE TABLE(<attributes>);
+Specifing not null attribute						- NOT NULL(<attribute>);
+Specifing primary key							- PRIMARY KEY(<attribute);
+
+
