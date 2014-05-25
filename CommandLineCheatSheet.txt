@@ -1,4 +1,5 @@
-// Zheng Hao Tan
+// Name: Zheng Hao Tan 
+// Email: tanzhao@umich.edu
 // Date: May 5, 2014
 
 Command Line Cheat Sheet
@@ -150,8 +151,10 @@ Inserts all possible completions.									- Alt-*
 ********************************************************************************
 History Commands
 ********************************************************************************
-
-
+Repeat last command (similar to pressing up-key then ENTER)			- !!
+Repeat history list command n.										- !<n>
+Repeat last history item starting with <string>						- !<string>
+Repeat last history item containing <string>						- !?<string>
 
 ********************************************************************************
 More Tips and Tricks
