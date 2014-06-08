@@ -147,7 +147,6 @@ Display a list of all possible completions.							- Alt-?
 Inserts all possible completions.									- Alt-*
 
 
-
 ********************************************************************************
 History Commands
 ********************************************************************************
