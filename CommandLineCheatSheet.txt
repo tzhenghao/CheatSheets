@@ -156,6 +156,16 @@ Repeat last history item starting with <string>						- !<string>
 Repeat last history item containing <string>						- !?<string>
 
 ********************************************************************************
+Printing
+********************************************************************************
+
+Convert text files for printing										- pr
+Print files 														- lpr
+Print files (System V).												- lp
+Format files for printing on a PostScript printer					- a2ps
+Show printer status													- lpstat
+
+********************************************************************************
 More Tips and Tricks
 ********************************************************************************
 
